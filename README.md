@@ -1,4 +1,4 @@
-# Bank-Note-Authentication-
+# Detection-of-Counterfeit-Notes
 ### Techniques used : MLP, Decsion Tree, Naive Bayes Classifier
 
 ### AIM 
